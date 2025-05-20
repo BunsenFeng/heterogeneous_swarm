@@ -1,0 +1,704 @@
+{
+    "dataset": "gaia",
+    "dev": [
+        {
+            "question": "I'd like to learn more about some popular reality television competition shows. As of the end of the 44th season of the American version of Survivor, how many more unique winners have there been compared to the number of winners of American Idol?",
+            "answer": "21",
+            "id": 114,
+            "context_chunks": [
+                "Step 1: Using a web browser, access a search engine and conduct a search \"American Survivor Television Series winners\"",
+                "Step 2: Navigate to the first result, https://en.wikipedia.org/wiki/Survivor_(American_TV_series)",
+                "Step 3: Evaluate the article and count the number of unique winners of the program: 42 winners",
+                "Step 4: Navigate back to a search engine and conduct a search \"American Idol Winners\"",
+                "Step 5: Navigate to the first search result, https://www.etonline.com/gallery/the-complete-list-of-american-idol-winners-21116/season-21-iam-tongi-92872",
+                "Step 6: Evaluate the article and count the number of unique winners of the program: 21",
+                "Step 7: Using a calculator, subtract the number of American Idol winners from the number of Survivor winners, 42-21 =",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "What integer-rounded percentage of the total length of the harlequin shrimp recorded in Omar Valencfia-Mendez 2017 paper was the sea star fed to the same type of shrimp in G. Curt Fiedler's 2002 paper?",
+            "answer": "22",
+            "id": 23,
+            "context_chunks": [
+                "1. Searched \"Omar Valencfia-Mendez 2017 shrimp paper\" on Google.",
+                "2. Opened \"Decapoda: Palaemonidae: Hymenocera picta Dana, 1852) ...\" on https://www.threatenedtaxa.org/index.php/JoTT/article/view/3238.",
+                "3. Clicked \"PDF/A\".",
+                "4. Found the length of the recorded shrimp as TL in the paper (4.5cm).",
+                "5. Searched \"G. Curt Fiedler 2002 shrimp paper\" on Google.",
+                "6. Opened \"(PDF) The influence of social environment on sex ...\" on https://www.researchgate.net/publication/232696279_The_influence_of_social_environment_on_sex_determination_in_harlequin_shrimp_Hymenocera_picta_Decapoda_Gnathophyllidae.",
+                "7. Found the size of the sea star fed to the shrimp (1cm).",
+                "8. Took the percentage (1 / 4.5 * 100% =",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "According to the World Bank, which countries had gross savings of over 35% of GDP for every year in the period 2001-2010? Give your answer as a comma-separated list of countries in alphabetical order. Use the countries most common names in english when answering.",
+            "answer": "Brunei, China, Morocco, Singapore",
+            "id": 73,
+            "context_chunks": [
+                "1. Use search engine to search for \"World Bank gross savings % of GDP\".",
+                "2. Open World Bank data webpage showing gross savings as % of GDP (https://data.worldbank.org/indicator/NY.GNS.ICTR.ZS).",
+                "3. Download data from webpage as Excel file and open it in a spreadsheet editor like Microsoft Excel.",
+                "4. Go to the file's \"Data\" sheet.",
+                "5. Add columns with formulas indicating if the gross savings % of GDP figures in each of the years from 2001 to 2010 are greater than 35 for each row.",
+                "6. Add column computing AND of the boolean values from the previous step for each row.",
+                "7. Filter for rows where the output of the AND from the previous step is true.",
+                "8. Get the list of country names in the remaining rows, excluding non-country regions and categories.",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In the 2015 Metropolitan Museum of Art exhibition titled after the Chinese zodiac animal of 2015, how many of the \"twelve animals of the Chinese zodiac\" have a hand visible?",
+            "answer": "11",
+            "id": 125,
+            "context_chunks": [
+                "1. Search \"2015 Chinese zodiac animal\" on Google search.",
+                "2. Note the animal (ram).",
+                "3. Search \"Metropolitan Museum of Art\" on Google search.",
+                "4. Open the Metropolitan Museum of Art website.",
+                "5. Click \"Exhibitions\" under \"Exhibitions and Events\" ",
+                "6. Click \"Past\".",
+                "7. Set the year to 2015.",
+                "8. Scroll to find the exhibit mentioning rams and click \"Celebration of the Year of the Ram\".",
+                "9. Click \"View All Objects\".",
+                "10. Click \"Twelve animals of the Chinese zodiac\" to open the image."
+            ]
+        },
+        {
+            "question": "Who composed the song that was performed by a rooster and a hamster in separate animated videos at separate tempos with different lyrics? Answer using the format First name Last name.",
+            "answer": "Roger Miller",
+            "id": 70,
+            "context_chunks": [
+                "1. Searched \"song performed by rooster and hamster\" on Google.",
+                "2. Opened https://en.wikipedia.org/wiki/The_Hampsterdance_Song.",
+                "3. Noted the song \"Whistle Stop\" was the original to use the tune.",
+                "4. Followed the link to https://en.wikipedia.org/wiki/Robin_Hood_(1973_film).",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In April of 1977, who was the Prime Minister of the first place mentioned by name in the Book of Esther (in the New International Version)?",
+            "answer": "Morarji Desai",
+            "id": 11,
+            "context_chunks": [
+                "1. Search the web for \u201cBook of Esther NIV\u201d.",
+                "2. Click search result to read the text of the first chapter.",
+                "3. Note the first place named, India.",
+                "4. Search the web for \u201cprime ministers of India list\u201d.",
+                "5. Click Wikipedia result.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "What country had the least number of athletes at the 1928 Summer Olympics? If there's a tie for a number of athletes, return the first in alphabetical order. Give the IOC country code as your answer.",
+            "answer": "CUB",
+            "id": 117,
+            "context_chunks": [
+                "1. Look up the 1928 Summer Olympics on Wikipedia",
+                "2. Look at a table of athletes from countries.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "My family reunion is this week, and I was assigned the mashed potatoes to bring. The attendees include my married mother and father, my twin brother and his family, my aunt and her family, my grandma and her brother, her brother's daughter, and his daughter's family. All the adults but me have been married, and no one is divorced or remarried, but my grandpa and my grandma's sister-in-law passed away last year. All living spouses are attending. My brother has two children that are still kids, my aunt has one six-year-old, and my grandma's brother's daughter has three kids under 12. I figure each adult will eat about 1.5 potatoes of mashed potatoes and each kid will eat about 1/2 a potato of mashed potatoes, except my second cousins don't eat carbs. The average potato is about half a pound, and potatoes are sold in 5-pound bags. How many whole bags of potatoes do I need? Just give the number.",
+            "answer": "2",
+            "id": 33,
+            "context_chunks": [
+                "1. Calculate the number of adults (mother, father, brother, brother's wife, aunt, aunt's husband, grandma, grandma's brother, grandma's brother's daughter, grandma's brother's daughter's husband, me = 11).",
+                "2. Calculate the number of children (niece, nephew, cousin, grandma's brother's daughter's kids x3 = 6).",
+                "3. Subtract the number of second cousins (grandma's brother's daughter's kids) (6 - 3 = 3).",
+                "4. Calculate the adult potatoes (11 * 1.5 = 16.5).",
+                "5. Calculate the child potatoes (3 * 0.5 = 1.5).",
+                "6. Add to get the total potatoes (16.5 + 1.5 = 18).",
+                "7. Multiply to get the pounds of potatoes (18 * 0.5 = 9 pounds).",
+                "8. Calculate the number of 5-lb bags needed (9 / 5 = 1.8).",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "What is the first name of the only Malko Competition recipient from the 20th Century (after 1977) whose nationality on record is a country that no longer exists?",
+            "answer": "Claus",
+            "id": 120,
+            "context_chunks": [
+                "1. Look at the Malko Competition page on Wikipedia",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "How many more blocks (also denoted as layers) in BERT base encoder than the encoder from the architecture proposed in Attention is All You Need?",
+            "answer": "6",
+            "id": 91,
+            "context_chunks": [
+                "1. Search the internet for \"blocks in bert base\"",
+                "2. Examine the search results page to locate the answer (12)",
+                "3. Search the internet for \"attention is all you need layers\"",
+                "4, Navigate to https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf from the search results page",
+                "5. Examine the architecture section of the PDF to locate the answer (12)",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In Unlambda, what exact character or text needs to be added to correct the following code to output \"For penguins\"? If what is needed is a character, answer with the name of the character. If there are different names for the character, use the shortest. The text location is not needed. Code:\n\n`r```````````.F.o.r. .p.e.n.g.u.i.n.si",
+            "answer": "backtick",
+            "id": 3,
+            "context_chunks": [
+                "1. Searched \"Unlambda syntax\" online (optional).",
+                "2. Opened https://en.wikipedia.org/wiki/Unlambda.",
+                "3. Note that the hello world program is very similar in syntax to the code in this question.",
+                "4. Go to the source referenced by the hello world program.",
+                "5. From the referenced source, read what the components of the program do to understand that each period needs a backtick after the initial `r.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Given $x_0 = -5$ and $f(x) = x^3 + 4x^2 - 3x + 8$, what is the smallest $n$ where using Newton's Method $n = n+1$ after rounding to four decimal places?",
+            "answer": "2",
+            "id": 65,
+            "context_chunks": [
+                "1. Verify Netwon's method as x_(n+1) = x_n - f(x_n)/f'(x_n) by searching",
+                "2. Calculate the derivative: f'(x) = 3x^2 + 8x - 3",
+                "3. Find x_1 using the given x_0 value: x_1 = -5 - ((-5)^3 + 4(-5)^2 - 3(-5) + 8)/(3(-5)^2 + 8(-5) - 3) = -79/16 \u2248 -4.9375",
+                "4. Iterate: x_2 = -79/16 - ((-79/16)^3 + 4(-79/16)^2 - 3(-79/16) + 8)/(3(-79/16)^2 + 8(-79/16) - 3) = -309711/62744 \u2248 -4.9361",
+                "5. They are not the same, so iterate: x_3 = -309711/62744 - ((-309711/62744)^3 + 4(-309711/62744)^2 - 3(-309711/62744) + 8)/(3(-309711/62744)^2 + 8(-309711/62744) - 3) = -18658881319456319/3780082116675876 \u2248 -4.9361",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "It is 1999. Before you party like it is 1999, please assist me in settling a bet.\n\nFiona Apple and Paula Cole released albums prior to 1999. Of these albums, which didn't receive a letter grade from Robert Christgau? Provide your answer as a comma delimited list of album titles, sorted alphabetically.",
+            "answer": "Harbinger, Tidal",
+            "id": 35,
+            "context_chunks": [
+                "1. search \"Fiona Apple discography\"",
+                "2. find her album released prior to 1999 was \"Tidal\"",
+                "3. search \"Paula Cole discography\"",
+                "4. find her album released prior to 1999 was \"This Fire\" and \"Harbinger\".",
+                "5. search \"Robert Christgau\"",
+                "6. use his website to search \"Fiona Apple\"",
+                "7. note his review for Tidal was an emoticon, not a letter grade",
+                "8. use his website to search \"Paula Cole\"",
+                "",
+                ""
+            ]
+        }
+    ],
+    "test": [
+        {
+            "question": "According to the USGS, in what year was the American Alligator first found west of Texas (not including Texas)?",
+            "answer": "1954",
+            "id": 97,
+            "context_chunks": [
+                "1. Search the web for \u201cAmerican Alligator USGS\u201d.",
+                "2. Click result for the USGS Species Profile.",
+                "3. Click \u201cAnimated Map\u201d.",
+                "4. Click the \u201cSkip years with no recorded sightings\u201d button.",
+                "5. Zoom out on the map to better view the whole U.S.",
+                "6. Move the slider back to the beginning, then advance it until I see a red dot pop up west of Texas.",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Of the cities within the United States where U.S. presidents were born, which two are the farthest apart from the westernmost to the easternmost going east, giving the city names only? Give them to me in alphabetical order, in a comma-separated list",
+            "answer": "Braintree, Honolulu",
+            "id": 98,
+            "context_chunks": [
+                "1. Searched \"cities where us presidents are born\" on Google.",
+                "2. Opened \"List of presidents of the United States by home state\" on Wikipedia.",
+                "3. Searched the eastern cities to find the easternmost one (Braintree, MA).",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Use density measures from the chemistry materials licensed by Marisa Alviar-Agnew & Henry Agnew under the CK-12 license in LibreText's Introductory Chemistry materials as compiled 08/21/2023.\n\nI have a gallon of honey and a gallon of mayonnaise at 25C. I remove one cup of honey at a time from the gallon of honey. How many times will I need to remove a cup to have the honey weigh less than the mayonaise? Assume the containers themselves weigh the same.",
+            "answer": "6",
+            "id": 13,
+            "context_chunks": [
+                "1. Search \"LibreText density mayonnaise\"",
+                "2. Click result, confirm the correct license.",
+                "3. Search \"cm^3 to 1 cup\"",
+                "4. Use results with density measures to form the equation (16*236.588)(1.420 - 0.910)/(236.588*1.420)",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The Latin root of the Yola word \"gimlie\" shares a spelling with a Spanish word. What is the Google translation of the source title for the 1994 example sentence for that word in the Collins Spanish-to-English dictionary online? Answer in plain text, without punctuation.",
+            "answer": "The World of the Twenty First Century",
+            "id": 56,
+            "context_chunks": [
+                "1. Searched \"Yola gimlie\" on Google.",
+                "2. Opened https://en.wiktionary.org/wiki/gimlie#Yola.",
+                "3. Noted the Latin root \"caminata\".",
+                "4. Searched \"Collins Spanish-to-English dictionary caminata\" on Google.",
+                "5. Opened https://www.collinsdictionary.com/dictionary/spanish-english/caminata.",
+                "6. Scrolled down to the 1994 example.",
+                "7. Searched \"El Mundo del Siglo Veintiuno translation\" on Google.",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The Metropolitan Museum of Art has a portrait in its collection with an accession number of 29.100.5. Of the consecrators and co-consecrators of this portrait's subject as a bishop, what is the name of the one who never became pope?",
+            "answer": "Alfonso Visconti",
+            "id": 42,
+            "context_chunks": [
+                "1. I searched for \"Metropolitan Museum of Art search collection\" using a search engine to get to the \"Search the Collection\" page on the Metropolitan Museum of Art's website.",
+                "2. I selected \"Accession Number\" in the search field dropdown and entered \"29.100.5\" into the text input, noting that the only result is a portrait titled \"Cardinal Fernando Ni\u00f1o de Guevara (1541\u20131609)\"",
+                "3. I went to Fernando Ni\u00f1o de Guevara's Wikipedia page and noted that he was consecrated bishop by Pope Clement VIII with Camillo Borghese and Alfonso Visconti as co-consecrators.",
+                "4. I eliminated Pope Clement VIII as the answer since he was obviously a pope based on his title.",
+                "5. I went to Camillo Borghese's Wikipedia page and noted that he became Pope Paul V, eliminating him as the answer.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If Eliud Kipchoge could maintain his record-making marathon pace indefinitely, how many thousand hours would it take him to run the distance between the Earth and the Moon its closest approach? Please use the minimum perigee value on the Wikipedia page for the Moon when carrying out your calculation. Round your result to the nearest 1000 hours and do not use any comma separators if necessary.",
+            "answer": "17",
+            "id": 4,
+            "context_chunks": [
+                "1. Googled Eliud Kipchoge marathon pace to find 4min 37sec/mile",
+                "2. Converted into fractions of hours.",
+                "3. Found moon periapsis in miles (225,623 miles).",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Which contributor to the version of OpenCV where support was added for the Mask-RCNN model has the same name as a former Chinese head of government when the names are transliterated to the Latin alphabet?",
+            "answer": "Li Peng",
+            "id": 22,
+            "context_chunks": [
+                "1. Use search engine to search for \"OpenCV change log\".",
+                "2. Open the top result from GitHub and search the page for \"Mask-RCNN\".",
+                "3. Observe that support for Mask-RCNN model was added in OpenCV version 4.0.0.",
+                "4. Expand the two lists of contributors for version 4.0.0.",
+                "5. Go to the Wikipedia page for head of government. ",
+                "6. Scan through and note that for China, the head of government is the premier.",
+                "7. Go to the Wikipedia page for premier of the People's Republic of China.",
+                "8. Go to the linked page for List of premiers of the People's Republic of China.",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "On July 15, 2008, Phys.org published an article about a catastrophe. Find the explosive force of this catastrophe according to Encyclopedia Britannica, then find the name of the US nuclear test that had the same yield. Your answer should only be the last word of the name of the test.",
+            "answer": "Bravo",
+            "id": 59,
+            "context_chunks": [
+                "1. Search for \"phys org archive\"",
+                "2. Click on the link for https://phys.org/archive",
+                "3. Naviage to July 15, 2008",
+                "4. Search the articles for an article that mentions \"catastrophe\"",
+                "5. Note the name of the event (Tunguska catastrophe)",
+                "6. Search for \"Tunguska catastrophe britannica\"",
+                "7. Click on the link for Tunguska event",
+                "8. Locate the explosive force in the article (15 megatons)",
+                "9. Search for \"us nuclear test 15 megatons\"",
+                ""
+            ]
+        },
+        {
+            "question": "All of the individuals who formally held the position of United States secretary of homeland security prior to April 2019, excluding those who held the position in an acting capacity, have a bachelor's degree. Of the universities that these bachelor's degrees were from, which is the westernmost university and which is the easternmost university? Give them to me as a comma-separated list, I only want the name of the cities where the universities are located, with the westernmost city listed first.",
+            "answer": "Santa Clara, Boston",
+            "id": 94,
+            "context_chunks": [
+                "1. Go to the Wikipedia page for \"United States secretary of homeland security\".",
+                "2. Open the Wikipedia pages for each person who held the position of United States secretary of homeland security in a non-acting capacity prior to April 2019.",
+                "3. Using the infobox on each person's Wikipedia page, open the Wikipedia page for the university from which each person received a bachelor's degree (bachelor's degree indicated by AB, BA, or BS).",
+                "4. Comparing the longitude coordinates for each university given on their Wikipedia pages, note that Santa Clara University is the westernmost as it has the highest longitude value in degrees W.",
+                "5. Note that the easternmost is either Harvard University or University of Massachusetts Boston, but the longitude for Harvard University is expressed in degrees, minutes, and seconds (71\u00b007\u203201\u2033W) while the longitude for University of Massachusetts Boston is expressed in decimal degrees (71.038445\u00b0W), requiring conversion to determine which is further east.",
+                "6. Convert 71\u00b007\u203201\u2033W to decimal degrees using the formula [decimal degrees] = [degrees] + [minutes] / 60 + [seconds] / 3600 to get approximately 71.1169\u00b0W for Harvard's longitude, which is further west than the University of Massachusetts Boston's longitude.",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Which of the fruits shown in the 2008 painting \"Embroidery from Uzbekistan\" were served as part of the October 1949 breakfast menu for the ocean liner that was later used as a floating prop for the film \"The Last Voyage\"? Give the items as a comma-separated list, ordering them in clockwise order based on their arrangement in the painting starting from the 12 o'clock position. Use the plural form of each fruit.",
+            "answer": "pears, bananas",
+            "id": 79,
+            "context_chunks": [
+                "1. Use search engine to search for \"2008 painting Embroidery from Uzbekistan\".",
+                "2. Open the top result, a link to the painting's page on the Dayton Art Institute website, and verify that the painting has the specified title and year.",
+                "3. Identify the fruits in the painting as watermelon, pear, lemon, and banana, which can be verified by either watching the video on the page or reading its linked transcript.",
+                "4. Use search engine to search for \"ocean liner floating prop The Last Voyage\".",
+                "5. Note from the results that this ocean liner was the SS \u00cele de France.",
+                "6. Use search engine to search for \"October 1949 breakfast menu SS \u00cele de France\".",
+                "7. Go to the result that shows the vintage SS \u00cele de France breakfast menu for October 1949.",
+                "8. Search the menu for each of the four fruits from the painting, finding \"Pear\" and \"Bananas\" but no matches for \"lemon\" or \"watermelon\".",
+                "9. Check the positions of the fruits in the painting to find that the pears come before the bananas in clockwise order starting from the 12 o'clock position.",
+                ""
+            ]
+        },
+        {
+            "question": "\u00ac(A \u2227 B) \u2194 (\u00acA \u2228 \u00acB)\n\u00ac(A \u2228 B) \u2194 (\u00acA \u2227 \u00acB)\n(A \u2192 B) \u2194 (\u00acB \u2192 \u00acA)\n(A \u2192 B) \u2194 (\u00acA \u2228 B)\n(\u00acA \u2192 B) \u2194 (A \u2228 \u00acB)\n\u00ac(A \u2192 B) \u2194 (A \u2227 \u00acB)\n\nWhich of the above is not logically equivalent to the rest? Provide the full statement that doesn't fit.",
+            "answer": "(\u00acA \u2192 B) \u2194 (A \u2228 \u00acB)",
+            "id": 32,
+            "context_chunks": [
+                "1. Determine the truth values of the first statement: Recognize this is one of De Morgan's Laws showing how to distribute negation over the and conjunction - so it is a tautology.",
+                "2. Determine the truth values of the second statement: Recognize this is one of De Morgan's Laws showing how to distribute negation over the or - so it is a tautology.",
+                "3. Determine the truth values of the third statement: Recognize this is the definition of the contrapositive - so it is a tautology.",
+                "4. Determine the truth values of the fourth statement: Recognize this as an alternative way of stating the conditional - so it is a tautology.",
+                "5. Determine the truth values of the fifth statement: I don't recognize this, so check its truth values:",
+                "6. A: True, B: True |  (\u00acA \u2192 B) \u2194 (A \u2228 \u00acB) = (\u00acT \u2192 T) \u2194 (T \u2228 \u00acT) = (F \u2192 T) \u2194 (T \u2228 F) = T \u2194 T = T",
+                "7. A: True, B: False |  (\u00acA \u2192 B) \u2194 (A \u2228 \u00acB) = (\u00acT \u2192 F) \u2194 (T \u2228 \u00acF) = (F \u2192 F) \u2194 (T \u2228 T) = T \u2194 T = T",
+                "8. A: False, B: True |  (\u00acA \u2192 B) \u2194 (A \u2228 \u00acB) = (\u00acF \u2192 T) \u2194 (F \u2228 \u00acT) = (T \u2192 T) \u2194 (F \u2228 \u00acT) = T \u2194 (F \u2228 F) = T \u2194 F = F",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Who are the pitchers with the number before and after Taish\u014d Tamai's number as of July 2023? Give them to me in the form Pitcher Before, Pitcher After, use their last names only, in Roman characters.",
+            "answer": "Yoshida, Uehara",
+            "id": 119,
+            "context_chunks": [
+                "1. Look up Taish\u014d Tamai on Wikipedia",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Given this table defining * on the set S = {a, b, c, d, e}\n\n|*|a|b|c|d|e|\n|---|---|---|---|---|---|\n|a|a|b|c|b|d|\n|b|b|c|a|e|c|\n|c|c|a|b|b|a|\n|d|b|e|b|e|d|\n|e|d|b|a|d|c|\n\nprovide the subset of S involved in any possible counter-examples that prove * is not commutative. Provide your answer as a comma separated list of the elements in the set in alphabetical order.",
+            "answer": "b, e",
+            "id": 50,
+            "context_chunks": [
+                "1. Compile the markdown.",
+                "2. Look at the table across the diagonal to see if any portions are not symmetrical.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Under DDC 633 on Bielefeld University Library's BASE, as of 2020, from what country was the unknown language article with a flag unique from the others?",
+            "answer": "Guatemala",
+            "id": 36,
+            "context_chunks": [
+                "1. Searched \"Bielefeld University Library's BASE\" on Google.",
+                "2. Opened https://www.base-search.net/.",
+                "3. Clicked \"Browsing\".",
+                "4. Selected Clicked \"Dewey Decimal Classification (DDC) > 6 > 63 > 633.",
+                "5. Refined to Unknown Language.",
+                "6. Found the only article with a flag unique from the others in the search from pre-2020.",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "According to Google Finance, when was the first year the Apple stock went above $50 (without adjusting for stock split)?",
+            "answer": "2018",
+            "id": 44,
+            "context_chunks": [
+                "1. typed in \"Google finance apple\" on browser",
+                "2. clicked first link",
+                "3. clicked \"max\" to display entire history of apple stock",
+                "4. hovered mouse around the area that line crosses over $50",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "I need to fact-check a citation. This is the citation from the bibliography:\n\nGreetham, David. \"Uncoupled: OR, How I Lost My Author(s).\" Textual Cultures: Texts, Contexts, Interpretation, vol. 3 no. 1, 2008, p. 45-46. Project MUSE, doi:10.2979/tex.2008.3.1.44.\n\nAnd this is the in-line citation:\n\nOur relationship with the authors of the works we read can often be \u201cobscured not by a \"cloak of print\" but by the veil of scribal confusion and mis-transmission\u201d (Greetham 45-46).\n\nDoes the quoted text match what is actually in the article? If Yes, answer Yes, otherwise, give me the word in my citation that does not match with the correct one (without any article).",
+            "answer": "cloak",
+            "id": 21,
+            "context_chunks": [
+                "1. Search the web for \u201cgreetham uncoupled project muse\u201d.",
+                "2. Click result, an article that matches the given citation.",
+                "3. Ctrl-F for \u201cobscured\u201d.",
+                "4. Find the quote from the question, which describes a \u201cveil of print\u201d, not a cloak.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In Valentina Re\u2019s contribution to the 2017 book \u201cWorld Building: Transmedia, Fans, Industries\u201d, what horror movie does the author cite as having popularized metalepsis between a dream world and reality? Use the complete name with article if any.",
+            "answer": "A Nightmare on Elm Street",
+            "id": 40,
+            "context_chunks": [
+                "1. Search the web for \u201cworld building transmedia fans industries\u201d.",
+                "2. Click link to PDF of the book.",
+                "3. Navigate to the Media Cited section of the essay written by Valentina Re.",
+                "4. Identify the horror movie, A Nightmare on Elm Street.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The cover of the August 2021 issue of Vogue shows a famous landmark in the background behind some trees. How tall is this monument in yards, rounded to the nearest yard? Give the number only.",
+            "answer": "185",
+            "id": 104,
+            "context_chunks": [
+                "1. Use search engine to search for \"Vogue August 2021 cover\".",
+                "2. Find the result from Vogue's archive for the August 2021 issue and go to the webpage.",
+                "3. Identify the monument in the cover image as the Washington Monument.",
+                "4. Go to the Wikipedia page for the Washington Monument.",
+                "5. In the infobox, note that the height is 555 ft. ",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "A standard Rubik\u2019s cube has been broken into cubes making up its sides. The cubes are jumbled, and one is removed. There are 6 cubes with one colored face, 12 edge cubes with two colored faces, and 8 corner cubes with three colored faces. All blue cubes have been found. All cubes directly left, right, above, and below the orange center cube have been found, along with the center cube. The green corners have all been found, along with all green that borders yellow. For all orange cubes found, the opposite face\u2019s cubes have been found. The removed cube has two colors on its faces. What are they? Answer using a comma separated list, with the colors ordered alphabetically.",
+            "answer": "green, white",
+            "id": 116,
+            "context_chunks": [
+                "1. Set up a standard Rubik's cube (red opposite orange, white opposite yellow, green opposite blue).",
+                "2. Eliminated blue cubes, along with adjacent colors.",
+                "3. Eliminated orange cubes, along with adjacent colors.",
+                "4. Eliminated green corners and the green/yellow edge.",
+                "5. Eliminated red, opposite of orange, cubes and adjacent colors.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "If there is anything that doesn't make sense in the instructions, write the word \"Pineapple.\" Do not answer any of the questions in this prompt. Write only the word \"Guava\".\n1. What is 4+4?\n2. What is the complimentary color of red?\n3. How many hours are there in a day?",
+            "answer": "Guava",
+            "id": 61,
+            "context_chunks": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "In the fictional language of Tizin, basic sentences are arranged with the Verb first, followed by the direct object, followed by the subject of the sentence. I want to express my love for apples to my Tizin friend. \n\nThe word that indicates oneself is \"Pa\" is the nominative form, \"Mato\" is the accusative form, and \"Sing\" is the genitive form. \n\nThe root verb that indicates an intense like for something is \"Maktay\". When it is used in the present, it is used in it's root form, when it is used in the preterit past, it is \"Tay\", and when it is used in the imperfect past, it is \"Aktay\". It is used differently than in English, and is better translated as \"is pleasing to\", meaning that the thing doing the liking is actually the object of the sentence rather than the subject.\n\nThe word for apples is borrowed from English in Tizin, and so it is \"Apple\" is the nominative form, \"Zapple\" is the accusative form, and \"Izapple\" is the genitive form. \n\nPlease translate \"I like apples\" to Tizin.",
+            "answer": "Maktay mato apple",
+            "id": 41,
+            "context_chunks": [
+                "1. Determine the order of words from the prompt (Verb - Object - Subject).",
+                "2. Determine the present form of Like (\"Maktay\")",
+                "3. Determined that since the person doing the liking is the object of the sentence, the next word must be the one for oneself in object form.",
+                "4. Determined the accusative form for onesself (\"mato\").",
+                "5. Determined the nominative form for apple. (\"apple\").",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Find the value of x to the nearest tenth: Lx = (d/dx * (A * x-squared)) + 4-thousand'n'ninety-7 minus C\nWhere L is the last two digits of the year of the Venezuelan Declaration of Independence,\nA is the number of colors in the TikTok logo as of July 2023, excluding black and white,\nand C is the height of the average woman in the Philippines according to a July 2023 Business Insider article, rounded to the nearest whole centimeter",
+            "answer": "563.9",
+            "id": 57,
+            "context_chunks": [
+                "1. Googled Venezuelan Declaration of Independence, found it to be in 1811, thus L = 11",
+                "2. Googled TikTok logo, found 4 colors, 2 of which are black and white, so A = 2",
+                "3. Googled average height of woman in Philippines, found it to be 149.6cm, so C = 150",
+                "4. Deciphered formula to mean 11x = (d/dx(2x^2)) + 4097 - 150",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "According to Box Office Mojo's 2020 Worldwide Box Office list, how many of the top 10 highest-grossing worldwide movies are also on the top 10 highest-grossing domestic movies? Your answer should be a numerical integer value.",
+            "answer": "6",
+            "id": 45,
+            "context_chunks": [
+                "1. Google searched \"Box Office Mojo's 2020 Worldwide Box Office\".",
+                "2. Clicked on the first result: Box Office Mojo, https://www.boxofficemojo.com/year/world/2020/, 2020 Worldwide Box Office.",
+                "3. Looked at the top 10 highest-grossing worldwide movies of 2020: 1. The Eight Hundred, 2. Demon Slayer the Movie: Mugen Train, 3. Bad Boys for Life, 4. My People, My Homeland, 5. Tenet, 6. Sonic the Hedgehog, 7. Dolittle, 8. Legend of Deification, 9. A Little Red Flower, 10. The Croods: A New Age.",
+                "4. Clicked on the column labeled \"Domestic\" to sort by highest-grossing domestic movies of 2020.",
+                "5. Looked at the first 10 movies on the list: Bad Boys for Life, Sonic the Hedgehog, Birds of Prey, Dolittle, The Invisible Man, The Call of the Wild, Onward, The Croods: A New Age, Tenet, Demon Slayer the Movie: Mugen Train.",
+                "6. For each of these movies: If the number under \"Rank\" is less than or equal to 10, then the movie is also among the top 10 highest-grossing worldwide movies of 2020.",
+                "7. Form the final list: Bad Boys for Life, Sonic the Hedgehog, Dolittle, The Croods: A New Age, Tenet, Demon Slayer the Movie: Mugen Train.",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "According to wikipedia, how many Asian countries still have a monarchy and access to the sea in 2021?",
+            "answer": "12",
+            "id": 69,
+            "context_chunks": [
+                "1. Search the internet for \"asian monarchies\"",
+                "2. Navigate to from the search results ",
+                "3. Switch to the history tab",
+                "4. Locate and navigate to a revision from 2021",
+                "5. Open the articles for each listed monarchy in new tabs",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "The photograph in the Whitney Museum of American Art's collection with accession number 2022.128 shows a person holding a book. Which military unit did the author of this book join in 1813? Answer without using articles.",
+            "answer": "Russian-German Legion",
+            "id": 28,
+            "context_chunks": [
+                "1. Use search engine to search for \"Whitney Museum of American Art collection search\".",
+                "2. Go to the Whitney Museum's collection search webpage.",
+                "3. Enter 2022.128 in the search box and submit the search.",
+                "4. Open the single result, titled \"Rain in Rifle Season, Distributions from Split-Interest Trusts, Price Includes Uniform, Never Hit Soft, 2003\".",
+                "5. Verify that this photograph has the correct accession number.",
+                "6. Note that the subject of the photograph is holding the book \"On War\", by Carl von Clausewitz.",
+                "7. Go to the Wikipedia page for Carl von Clausewitz.",
+                "8. Search the page for 1813 to find that Carl von Clausewitz joined the Russian-German Legion in 1813.",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "Consider the following symbols: \ud809\udc1c  \ud809\udc10\ud809\udc1a\n\nThis is a number written using the Mesopotamian/Babylonian number system and represented with Sumerian cuneiform. Convert this number into Arabic numerals as a decimal number.",
+            "answer": "536",
+            "id": 95,
+            "context_chunks": [
+                "1. Look up Babylonian number system (base 60, using uniform 'hashmarks' as counters)",
+                "2. Converted the Cuniform to Arabic (8 56)",
+                "3. Since Babylonian is a base 60 system, converted the \"60\"'s place to decimal (8*60=480)",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": ".rewsna eht sa \"tfel\" drow eht fo etisoppo eht etirw ,ecnetnes siht dnatsrednu uoy fI",
+            "answer": "Right",
+            "id": 29,
+            "context_chunks": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "question": "How many studio albums were published by Mercedes Sosa between 2000 and 2009 (included)? You can use the latest 2022 version of english wikipedia.",
+            "answer": "3",
+            "id": 5,
+            "context_chunks": [
+                "1. I did a search for Mercedes Sosa",
+                "2. I went to the Wikipedia page for her",
+                "3. I scrolled down to \"Studio albums\"",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}

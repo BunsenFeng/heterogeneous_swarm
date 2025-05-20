@@ -1,0 +1,2047 @@
+{
+    "dataset": "abkg",
+    "dev": [
+        {
+            "question": "how many other typefaces from microsoft are designed by the same person who designed verdana?",
+            "choices": {
+                "A": "3",
+                "B": "0",
+                "C": "5",
+                "D": "1"
+            },
+            "answer": "D",
+            "id": "491000200_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "in united states of america how many games published by electronic arts are available?",
+            "choices": {
+                "A": "100",
+                "B": "1000000",
+                "C": "5",
+                "D": "1000"
+            },
+            "answer": "C",
+            "id": "444000100_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "what kind of viewfinder does the matsushita electric industrial's camera with a sensor that compresses image files into mts use?",
+            "choices": {
+                "A": "Electronic viewfinder",
+                "B": "Optical viewfinder",
+                "C": "Rangefinder",
+                "D": "Live preview"
+            },
+            "answer": "D",
+            "id": "4302274007000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "find the camera storage type that is supported by olympus fe-130 and the digital camera with iso setting of 2000.",
+            "choices": {
+                "A": "xD-Picture Card",
+                "B": "CompactFlash",
+                "C": "SD Card",
+                "D": "Memory Stick"
+            },
+            "answer": "A",
+            "id": "4302372004000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "The artist who had a concert tour named I'm Your Baby Tonight World Tour died from what drugs?",
+            "choices": {
+                "A": "Cocaine overdose",
+                "B": "Alcohol poisoning",
+                "C": "Heroin overdose",
+                "D": "Prescription medication overdose"
+            },
+            "answer": "A",
+            "id": "WebQTrn-2600_498797c759f6119ac48af1f70b11e2c1_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "what is the political ideology that the national unity front and the queensland state election, 1977 follow?",
+            "choices": {
+                "A": "Conservatism",
+                "B": "Communism",
+                "C": "Liberalism",
+                "D": "Socialism"
+            },
+            "answer": "A",
+            "id": "4302370004000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what position did pat connaughton, author of did you see that thing? that\u2019s sidat-singh! the syracuse walking dream!, play?",
+            "choices": {
+                "A": "Guard",
+                "B": "Point Guard",
+                "C": "Forward",
+                "D": "Center"
+            },
+            "answer": "A",
+            "id": "4300563004000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "how many games of electronic arts are released in the united states?",
+            "choices": {
+                "A": "1000",
+                "B": "5",
+                "C": "100",
+                "D": "10000"
+            },
+            "answer": "B",
+            "id": "444000402_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "What was the earliest event that George W. Bush was sworn in at?",
+            "choices": {
+                "A": "George W. Bush 2004 presidential inauguration",
+                "B": "George W. Bush 2001 presidential inauguration",
+                "C": "George W. Bush 2005 presidential inauguration",
+                "D": "George W. Bush 2009 presidential inauguration"
+            },
+            "answer": "B",
+            "id": "WebQTrn-923_c0b877813c04f2a410d526fdd6acbaed_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "which website that belongs to the category of lokl.com has web api of python?",
+            "choices": {
+                "A": "Yelp",
+                "B": "Google Maps",
+                "C": "OpenTable",
+                "D": "StopFinder"
+            },
+            "answer": "D",
+            "id": "4300801007000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "When is the most recent time the sports team whose fight song is \"Meet the Mets\" won the World Series?",
+            "choices": {
+                "A": "2000 World Series",
+                "B": "1969 World Series",
+                "C": "1986 World Series",
+                "D": "2015 World Series"
+            },
+            "answer": "C",
+            "id": "WebQTest-1556_e4e4fb403bd2ceb5f9d9414dd63e7b64_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "what are the common symptoms of fip and some disease caused by old age?",
+            "choices": {
+                "A": "Increased energy levels",
+                "B": "Improved coat condition",
+                "C": "Increased appetite",
+                "D": "Weight loss"
+            },
+            "answer": "D",
+            "id": "246000102_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "which types of storage are compatible with casio exilim ex-v8 as well as color filter array of bayer?",
+            "choices": {
+                "A": "Micro SDXC",
+                "B": "Compact Flash",
+                "C": "Secure Digital",
+                "D": "Hard Disk Drive"
+            },
+            "answer": "C",
+            "id": "4302099013000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "the industry within which the international ladies garment workers union operates has what common parent industry that also is parent to the railway?",
+            "choices": {
+                "A": "Ballyclare Limited",
+                "B": "Apparel Retail",
+                "C": "Textile Manufacturing",
+                "D": "Transportation"
+            },
+            "answer": "A",
+            "id": "4301917003000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "Which suprbowls were won by an NFL team that played in the New York Metropolitan area?",
+            "choices": {
+                "A": "Super Bowl XLVI",
+                "B": "Super Bowl XXV",
+                "C": "Super Bowl V",
+                "D": "Super Bowl III"
+            },
+            "answer": "A",
+            "id": "WebQTrn-3290_a15467d9386227fe2f79084c647b588b_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "Birth place to Ant\u00c3\u00a3o Martins Homem, what type of government did Sparta Greece have?",
+            "choices": {
+                "A": "Theocracy",
+                "B": "Monarchy",
+                "C": "Democracy",
+                "D": "Oligarchy"
+            },
+            "answer": "B",
+            "id": "WebQTrn-1542_89e002ff7250ffeee9ef6f385a7a0658_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "what kind of government does japan have now and in locations where Emanuel Lasker was born in?",
+            "choices": {
+                "A": "Constitutional monarchy",
+                "B": "Dictatorship",
+                "C": "Theocracy",
+                "D": "Oligarchy"
+            },
+            "answer": "A",
+            "id": "WebQTest-738_3ce332b703593e71708a5604865c5758_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "name all types of museums that are of the same type as independence seaport museum and erie maritime museum.",
+            "choices": {
+                "A": "Science museum",
+                "B": "Natural history museum",
+                "C": "Art museum",
+                "D": "History museum"
+            },
+            "answer": "A",
+            "id": "5400031000000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "how many different breeds from great britain have the same temperament as the otterhound?",
+            "choices": {
+                "A": "2",
+                "B": "5",
+                "C": "10",
+                "D": "0"
+            },
+            "answer": "A",
+            "id": "4303460007000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what is the isos that kodak easyshare m753 by canon, inc. supports?",
+            "choices": {
+                "A": "400",
+                "B": "800",
+                "C": "100",
+                "D": "200"
+            },
+            "answer": "C",
+            "id": "4304013002000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "name the camera storage type supported by konica minolta dimage g600 and a digital camera with an iso setting of 64.",
+            "choices": {
+                "A": "Memory Stick",
+                "B": "Secure Digital",
+                "C": "xD Picture Card",
+                "D": "Compact Flash"
+            },
+            "answer": "B",
+            "id": "4302372010000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "Which form of government was practiced within Sparta and within the countries ruled by Philip III of Spain?",
+            "choices": {
+                "A": "Theocracy",
+                "B": "Democracy",
+                "C": "Monarchy",
+                "D": "Oligarchy"
+            },
+            "answer": "C",
+            "id": "WebQTrn-73_12781e726ed82c2dac09fcd2dce236fb_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "what diseases transmitted via sex have the same type of infectious agent as tb?",
+            "choices": {
+                "A": "Chlamydia infection",
+                "B": "Syphilis",
+                "C": "Gonorrhea",
+                "D": "HIV/AIDS"
+            },
+            "answer": "A",
+            "id": "481000301_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "Who was the Vice President of the man about whom \"Gore Vidal's Lincoln\" was written?",
+            "choices": {
+                "A": "Andrew Johnson",
+                "B": "John C. Calhoun",
+                "C": "Martin Van Buren",
+                "D": "Henry Clay"
+            },
+            "answer": "A",
+            "id": "WebQTrn-1777_5096e7f87655bfead420edf88c0629f0_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "the character that resides in the palaces of sacred band of stepsons is named what?",
+            "choices": {
+                "A": "Elara",
+                "B": "Cime",
+                "C": "Eamon",
+                "D": "Aethelred"
+            },
+            "answer": "B",
+            "id": "4300742011000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "Find the artist responsible for Something In Common, what drugs were found in their system at the time of their death?",
+            "choices": {
+                "A": "Cocaine overdose",
+                "B": "Heroin overdose",
+                "C": "Prescription medication overdose",
+                "D": "Alcohol poisoning"
+            },
+            "answer": "A",
+            "id": "WebQTrn-2600_01c839018be55a06350a42544b4d4fd8_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "list all quotations from nikodemos that are addressed to whom \u201cequality must be maintained, if it is promised.\u201d was addressed to.",
+            "choices": {
+                "A": "Charon",
+                "B": "The Fates",
+                "C": "The King of the Underworld",
+                "D": "The Oracle of Delphi"
+            },
+            "answer": "A",
+            "id": "4302343002000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what is the attitude of the first dog and the german shepherds?",
+            "choices": {
+                "A": "Suspicious",
+                "B": "Indifferent",
+                "C": "Obedient",
+                "D": "Aggressive"
+            },
+            "answer": "C",
+            "id": "4300459012000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "What kind of guitar is played by the lyracist who wrote Second Hand News?",
+            "choices": {
+                "A": "Ukulele",
+                "B": "Acoustic guitar",
+                "C": "Electric guitar",
+                "D": "Bass guitar"
+            },
+            "answer": "D",
+            "id": "WebQTrn-3122_2b191a52aba771c6c8ea676fadf7b51e_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "the plymouth caravelle and \u0161koda 110 r are in which class of automobiles?",
+            "choices": {
+                "A": "Sedan",
+                "B": "SUV",
+                "C": "Coup\u00e9",
+                "D": "Hatchback"
+            },
+            "answer": "C",
+            "id": "4301079001000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what are the diseases transmitted through sex that have the same type of infectious agents as tuberculosis?",
+            "choices": {
+                "A": "Gonorrhea",
+                "B": "Syphilis",
+                "C": "Chlamydia infection",
+                "D": "HIV/AIDS"
+            },
+            "answer": "C",
+            "id": "481000400_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "what isos are currently supported by d40x cameras from unknown?",
+            "choices": {
+                "A": "100",
+                "B": "400",
+                "C": "200",
+                "D": "800"
+            },
+            "answer": "A",
+            "id": "4304013004000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what is the political ideology that the people's monarchist party and the queensland state election, 1977 follow?",
+            "choices": {
+                "A": "Anarchism",
+                "B": "Liberalism",
+                "C": "Socialism",
+                "D": "Conservatism"
+            },
+            "answer": "D",
+            "id": "4302370003000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which type of dish common in manado cuisine contains sugars?",
+            "choices": {
+                "A": "Soup",
+                "B": "Dessert",
+                "C": "Appetizer",
+                "D": "Main course"
+            },
+            "answer": "D",
+            "id": "4301356000000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "who was the computer designer for atari 520 stm and atari 260 st?",
+            "choices": {
+                "A": "Atari",
+                "B": "IBM",
+                "C": "Apple",
+                "D": "Steve Wozniak"
+            },
+            "answer": "A",
+            "id": "4301299001000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which is the number of automotive classes which are examples of ford freestar and kia sedona?",
+            "choices": {
+                "A": "3",
+                "B": "2",
+                "C": "0",
+                "D": "1"
+            },
+            "answer": "D",
+            "id": "3206121012000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "how many electronic arts games are available for purchase in the united states?",
+            "choices": {
+                "A": "5000",
+                "B": "1000",
+                "C": "100",
+                "D": "5"
+            },
+            "answer": "D",
+            "id": "444000202_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "what type of dish contains crawfish tails and is common in louisiana creole cuisine?",
+            "choices": {
+                "A": "Po'boy",
+                "B": "Gumbo",
+                "C": "Jambalaya",
+                "D": "Soup"
+            },
+            "answer": "D",
+            "id": "4301356011000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what category of schools does london business school and the publisher of opus fall under?",
+            "choices": {
+                "A": "Private university",
+                "B": "Public university",
+                "C": "High school",
+                "D": "Community college"
+            },
+            "answer": "B",
+            "id": "4301751002000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which person designed the imac dv and next computer?",
+            "choices": {
+                "A": "Mark Zuckerberg",
+                "B": "Elon Musk",
+                "C": "Bill Gates",
+                "D": "Steve Jobs"
+            },
+            "answer": "D",
+            "id": "4301299014000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "What is the predominant language of the region where \"Into the Arms of Strangers: Stories of the Kindertransport\" was located?",
+            "choices": {
+                "A": "German",
+                "B": "Hebrew",
+                "C": "Old English",
+                "D": "Yiddish"
+            },
+            "answer": "C",
+            "id": "WebQTrn-1215_20ae9a3ac5a1d4d40671f15de04edb15_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "how many electronic arts games are available for purchase in the united states of america?",
+            "choices": {
+                "A": "3",
+                "B": "2",
+                "C": "1",
+                "D": "5"
+            },
+            "answer": "D",
+            "id": "444000200_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "which breeds have similar temperament as the picardy spaniel and the seppala siberian sleddogs?",
+            "choices": {
+                "A": "Chihuahua",
+                "B": "Doberman Pinscher",
+                "C": "Braque d'Auvergne",
+                "D": "Golden Retriever"
+            },
+            "answer": "C",
+            "id": "4300795005000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "Where is the greatest population in the country where the Domari is spoken?",
+            "choices": {
+                "A": "Damascus, Syria",
+                "B": "Istanbul, Turkey",
+                "C": "Mumbai, India",
+                "D": "Greater Cairo"
+            },
+            "answer": "D",
+            "id": "WebQTrn-3037_602d3e74c7063895f149a8f44b9e406f_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "The team that won the 1969 World Series championship won the World Series last when?",
+            "choices": {
+                "A": "1986 World Series",
+                "B": "1996 World Series",
+                "C": "1973 World Series",
+                "D": "2004 World Series"
+            },
+            "answer": "A",
+            "id": "WebQTest-1556_d47235946e6c9112db92fd6fbb6e26b3_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "When was the last time the team that won the 1973 NBA Finals championship won a championship?",
+            "choices": {
+                "A": "2010 NBA Finals",
+                "B": "1980 NBA Finals",
+                "C": "2000 NBA Finals",
+                "D": "1973 NBA Finals"
+            },
+            "answer": "D",
+            "id": "WebQTrn-1406_920d8cef50c023e0a693d393bf609007_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "what is the number of religious texts that include both buddhists and buddhism texts?",
+            "choices": {
+                "A": "1",
+                "B": "2",
+                "C": "100",
+                "D": "3"
+            },
+            "answer": "A",
+            "id": "3206221006000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "What is the name of the Facebook founder that was influenced by Jeff Bezos?",
+            "choices": {
+                "A": "Larry Page",
+                "B": "Mark Zuckerberg",
+                "C": "Bill Gates",
+                "D": "Steve Jobs"
+            },
+            "answer": "B",
+            "id": "WebQTrn-1071_6ee3bfab441c52883f7bde45cbcb4612_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "What attractions can a visitor see if they are visiting the place where the film Eden Court was located?",
+            "choices": {
+                "A": "The Art Institute of Chicago",
+                "B": "Adler Planetarium",
+                "C": "The Field Museum",
+                "D": "Millennium Park"
+            },
+            "answer": "B",
+            "id": "WebQTrn-825_498677b7af0b61e338f886059e90f2d7_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "a digital camera that has the color filter array type of bayer and iso settings of 12800 has what sensor type?",
+            "choices": {
+                "A": "Charge-coupled device sensor",
+                "B": "Film sensor",
+                "C": "CCD sensor",
+                "D": "CMOS sensor"
+            },
+            "answer": "D",
+            "id": "4300861009000_grailqa",
+            "domain": "grailqa"
+        }
+    ],
+    "test": [
+        {
+            "question": "the same rocket manufacturer who manufactured ares i and saturn-v created what other rocket?",
+            "choices": {
+                "A": "Ariane 5",
+                "B": "Atlas V",
+                "C": "Falcon 9",
+                "D": "Saturn-Shuttle"
+            },
+            "answer": "D",
+            "id": "4300129004000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "there exists a musical release produced by angel in my heart and labelled virgin records, what is it?",
+            "choices": {
+                "A": "The Colour of My Dreams",
+                "B": "Northern Star",
+                "C": "Virgin Killer",
+                "D": "Angel in My Heart"
+            },
+            "answer": "B",
+            "id": "4301990013000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "where in massachussetts institute of technology does lee young-hee work?",
+            "choices": {
+                "A": "MIT Sloan School of Management",
+                "B": "MIT Physics Department",
+                "C": "MIT Department of Biology",
+                "D": "MIT Media Lab"
+            },
+            "answer": "B",
+            "id": "4301362014000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "Who was influenced by Melanie Klein and in turn influenced Whitman's poetry?",
+            "choices": {
+                "A": "Carl Jung",
+                "B": "John Keats",
+                "C": "Georg Wilhelm Friedrich Hegel",
+                "D": "Sigmund Freud"
+            },
+            "answer": "C",
+            "id": "WebQTrn-3358_5dcd3d0995310bd9bcaea14ff53b887e_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "the text at the core of c&ma and honored by prayer practitioners is what?",
+            "choices": {
+                "A": "The Bible",
+                "B": "The Torah",
+                "C": "The Book of Mormon",
+                "D": "The Quran"
+            },
+            "answer": "A",
+            "id": "4300898014000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "What film in the same genre as The True Story of The Three Little Pigs starred Adam Sandler?",
+            "choices": {
+                "A": "none",
+                "B": "Click",
+                "C": "The Waterboy",
+                "D": "Billy Madison"
+            },
+            "answer": "A",
+            "id": "WebQTrn-1677_4c971bef32fb5777fb8b18ead5a702fe_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "mormonites and eastern christians are practiced by how many religious practices?",
+            "choices": {
+                "A": "1",
+                "B": "4",
+                "C": "3",
+                "D": "2"
+            },
+            "answer": "D",
+            "id": "3204573013000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which neoplasm treatments come with the side effects of facial redness?",
+            "choices": {
+                "A": "Prednisone",
+                "B": "Chemotherapy",
+                "C": "Surgery",
+                "D": "Radiation therapy"
+            },
+            "answer": "A",
+            "id": "4301182001000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "feline infectious peritonitis and some disease caused by old share which symptoms?",
+            "choices": {
+                "A": "Hyperactivity",
+                "B": "Increased appetite",
+                "C": "Improved coat condition",
+                "D": "Weight loss"
+            },
+            "answer": "D",
+            "id": "246000001_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "what number of children of eddard stark were born in winterfell?",
+            "choices": {
+                "A": "5",
+                "B": "2",
+                "C": "4",
+                "D": "3"
+            },
+            "answer": "D",
+            "id": "448000200_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "What is the name of the student that is credited with creating Google?",
+            "choices": {
+                "A": "Mark Zuckerberg",
+                "B": "Sergey Brin",
+                "C": "Bill Gates",
+                "D": "Larry Page"
+            },
+            "answer": "D",
+            "id": "WebQTrn-2393_562282f8faca4648a9c8ec98e3e4415d_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "bigger than life: the boundless genius of yiddish theater has how many exhibition subjects?",
+            "choices": {
+                "A": "75",
+                "B": "2",
+                "C": "12",
+                "D": "41"
+            },
+            "answer": "D",
+            "id": "4302933004000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what are the number of religious practices that practice hinduism and taoism?",
+            "choices": {
+                "A": "2",
+                "B": "100",
+                "C": "3",
+                "D": "1"
+            },
+            "answer": "D",
+            "id": "3204573003000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what is the number of programming language paradigms for euclid and bliss ?",
+            "choices": {
+                "A": "4",
+                "B": "1",
+                "C": "2",
+                "D": "3"
+            },
+            "answer": "C",
+            "id": "3205793006000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "besides paper embossing, what other art forms were made by pierre redon?",
+            "choices": {
+                "A": "Sculpture",
+                "B": "Photography",
+                "C": "Watercolor painting",
+                "D": "Metalworking"
+            },
+            "answer": "D",
+            "id": "4302283009000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which type of symptoms does the fip and old age diseases have in common?",
+            "choices": {
+                "A": "Increased appetite",
+                "B": "Improved coat condition",
+                "C": "Weight loss",
+                "D": "Muscle growth"
+            },
+            "answer": "C",
+            "id": "246000302_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "ralph dix and the producer of wake up kentucky produce what content?",
+            "choices": {
+                "A": "Local weather forecasts",
+                "B": "The latest news on the Kentucky Derby",
+                "C": "Kentucky Fried Chicken recipes",
+                "D": "Down and Outside: On the Streets of Louisville"
+            },
+            "answer": "D",
+            "id": "4300832001000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "When was the last superbowl to inlucde the team that had Rise as thier mascot?",
+            "choices": {
+                "A": "Super Bowl XLVII",
+                "B": "Super Bowl LVII",
+                "C": "Super Bowl XLIX",
+                "D": "Super Bowl LI"
+            },
+            "answer": "A",
+            "id": "WebQTest-595_5dd0eeca79ae03b7711252c032849eb2_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "In Virginia and locations near the Venice Municipal Airport, what time zone do they use?",
+            "choices": {
+                "A": "Eastern Time Zone",
+                "B": "Mountain Time Zone",
+                "C": "Central Time Zone",
+                "D": "Pacific Time Zone"
+            },
+            "answer": "A",
+            "id": "WebQTrn-3099_623b8370871966e2e8aeb301482e1558_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "which is the longest release track of recordings that baeho \"bobby\" shin has written?",
+            "choices": {
+                "A": "Runaway",
+                "B": "Bliss",
+                "C": "Stay",
+                "D": "Love Shot"
+            },
+            "answer": "B",
+            "id": "4300020012000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which was the most recently formed cyclone that is in the same category as tropical storm rachel?",
+            "choices": {
+                "A": "Tropical Storm Daniel",
+                "B": "Tropical Depression Eleven",
+                "C": "Hurricane Iselle",
+                "D": "Hurricane Dora"
+            },
+            "answer": "C",
+            "id": "4303808000000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "how many active websites are owned by monsoon multimedia?",
+            "choices": {
+                "A": "5",
+                "B": "1",
+                "C": "1000",
+                "D": "100"
+            },
+            "answer": "B",
+            "id": "3206340012000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "What Canadian government exists where Baldur von Schirach was born?",
+            "choices": {
+                "A": "Parliamentary republic",
+                "B": "Presidential republic",
+                "C": "Absolute monarchy",
+                "D": "Constitutional monarchy"
+            },
+            "answer": "D",
+            "id": "WebQTrn-1702_3f76d491e90682cc29e3de2546e1f9c5_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "how many contents about radio documentary were produced by the producer of small things considered?",
+            "choices": {
+                "A": "5",
+                "B": "10",
+                "C": "1",
+                "D": "0"
+            },
+            "answer": "C",
+            "id": "4303008000000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "What is the ocean that the water flowing underneath the Bethanga Bridge empties into?",
+            "choices": {
+                "A": "Southern Ocean",
+                "B": "Pacific Ocean",
+                "C": "Atlantic Ocean",
+                "D": "Indian Ocean"
+            },
+            "answer": "A",
+            "id": "WebQTrn-1234_7051979c1a99a094b204a20afe3b82ec_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "what rocket engine designer designs a bipropellant rocket engine with rp-1 and gas-generator cycle?",
+            "choices": {
+                "A": "Arianespace",
+                "B": "SpaceX",
+                "C": "NASA",
+                "D": "Blue Origin"
+            },
+            "answer": "B",
+            "id": "4300753003000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "the religion featuring christmas day, which is part of abrahamic faiths, has a founding leader who is named what?",
+            "choices": {
+                "A": "Moses",
+                "B": "Buddha",
+                "C": "Paul the Apostle",
+                "D": "Muhammad"
+            },
+            "answer": "C",
+            "id": "4302278011000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "there is a specific cheese with a crumbly texture that is sourced from goat and ovine, what is it called?",
+            "choices": {
+                "A": "Parmesan cheese",
+                "B": "Feta cheese",
+                "C": "Castelmagno cheese",
+                "D": "Brie cheese"
+            },
+            "answer": "C",
+            "id": "4301155006000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "the harrier and chinese crested dog dog breeds share how many temperaments?",
+            "choices": {
+                "A": "0",
+                "B": "5",
+                "C": "1",
+                "D": "3"
+            },
+            "answer": "C",
+            "id": "3205485002000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "hazelwood west high school and the publisher of folia fall under which category of schools?",
+            "choices": {
+                "A": "Public school",
+                "B": "Charter school",
+                "C": "Private school",
+                "D": "Home school"
+            },
+            "answer": "A",
+            "id": "4301751011000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which olympic event was officially contested in the 1936 olympics,as well as other olympic games in amesterdam?",
+            "choices": {
+                "A": "Men's 100m Freestyle Swimming",
+                "B": "Men's Marathon",
+                "C": "Women's Discus throw",
+                "D": "Women's Gymnastics"
+            },
+            "answer": "C",
+            "id": "4300161011000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what programming language paradigm is used by hy and another programming language influenced by lfe?",
+            "choices": {
+                "A": "Procedural programming",
+                "B": "Functional programming",
+                "C": "Logic programming",
+                "D": "Object-oriented programming"
+            },
+            "answer": "B",
+            "id": "4300798014000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "a digital camera that has the color filter array type of bayer and iso settings of 2000 has what sensor type?",
+            "choices": {
+                "A": "CMOS",
+                "B": "Live MOS",
+                "C": "CCD",
+                "D": "APS-C"
+            },
+            "answer": "B",
+            "id": "4300861000000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what is the name of the position that stephen wilson played in which the player who authored did you see that thing? that\u2019s sidat-singh! the syracuse walking dream! also play?",
+            "choices": {
+                "A": "Small Forward",
+                "B": "Guard",
+                "C": "Forward",
+                "D": "Center"
+            },
+            "answer": "B",
+            "id": "4300563007000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "In what stadium does the team who is owned by William DeWitt, Jr. play?",
+            "choices": {
+                "A": "Busch Stadium",
+                "B": "m.06k1v5",
+                "C": "Wrigley Field",
+                "D": "Fenway Park"
+            },
+            "answer": "A",
+            "id": "WebQTrn-2444_e5059ff268415917df330817b9c8ef8c_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "for ned stark's children, how many of them were born in winterfell?",
+            "choices": {
+                "A": "3",
+                "B": "4",
+                "C": "1",
+                "D": "5"
+            },
+            "answer": "A",
+            "id": "448000501_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "which character lives in the fictional bandaran island chain of the sacred band of stepsons universe?",
+            "choices": {
+                "A": "The Oracle of the Whispering Sands",
+                "B": "Anya, the warrior queen",
+                "C": "Lord Eldrin, the banished king",
+                "D": "Cyrus, shape-changer"
+            },
+            "answer": "D",
+            "id": "4300742007000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which cheese made from milk of ram has the same texture as black butte does?",
+            "choices": {
+                "A": "Cheddar",
+                "B": "Roquefort",
+                "C": "Azeitao",
+                "D": "Parmesan"
+            },
+            "answer": "C",
+            "id": "4302129015000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what is the farthest variable stars?",
+            "choices": {
+                "A": "Betelgeuse",
+                "B": "Sirius",
+                "C": "Polaris",
+                "D": "Proxima Centauri"
+            },
+            "answer": "D",
+            "id": "4303393000000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which medications to treat pains have sludge syndrome as a side effect?",
+            "choices": {
+                "A": "Ibuprofen",
+                "B": "Acetaminophen",
+                "C": "Buprenorphine",
+                "D": "Morphine"
+            },
+            "answer": "C",
+            "id": "4301182004000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "ab\u016b ray\u1e25\u0101n al-b\u012br\u016bn\u012b works in what department of university",
+            "choices": {
+                "A": "University of Tokyo Department of Engineering",
+                "B": "University of Oxford Department of Physics",
+                "C": "University of California, Berkeley Department of Computer Science",
+                "D": "University of Florida Department of History"
+            },
+            "answer": "D",
+            "id": "4301362010000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what content does new york public radio and the producer of lost & found sound produce?",
+            "choices": {
+                "A": "The Metropolitan Opera",
+                "B": "The Sonic Memorial Project",
+                "C": "The Daily News",
+                "D": "The New York Times"
+            },
+            "answer": "B",
+            "id": "4300832004000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which artwork on wood was painted in the era of juan de arellano?",
+            "choices": {
+                "A": "The Flayed Ox",
+                "B": "The Starry Night",
+                "C": "The Mona Lisa",
+                "D": "The Last Supper"
+            },
+            "answer": "A",
+            "id": "4301655015000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which song is the longest song of handel: messiah (dublin version, 1742) ?",
+            "choices": {
+                "A": "The Messiah, Part 3 (Nos. 45-53): Chorus, \"Hallelujah\"",
+                "B": "The Messiah, Part 2 (Nos. 14-39): Recitative, \"He was despised\"",
+                "C": "The Messiah, Part 3 (Nos. 45-53): Aria, the Trumpet Shall Sound",
+                "D": "The Messiah, Part 1 (Nos. 1-13): Sinfonia"
+            },
+            "answer": "C",
+            "id": "4301467006000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what is the subject of the quote what is faith but a kind of betting or speculation after all? it should be, i bet that my redeemer liveth. which was spoken quoted by the angel of remembrance?",
+            "choices": {
+                "A": "Faith",
+                "B": "Redemption",
+                "C": "Speculation",
+                "D": "Angels"
+            },
+            "answer": "A",
+            "id": "4300443013000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "Which Children's book about Friendship did Suzanne Collins write?",
+            "choices": {
+                "A": "The Hunger Games",
+                "B": "Gregor and the Prophecy of Bane",
+                "C": "The Mockingjay",
+                "D": "The Ballad of Songbirds and Snakes"
+            },
+            "answer": "B",
+            "id": "WebQTrn-3364_e5faa8b095f56c4563da9331fe2661c2_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "hersbrucker and chinook use how many beer styles?",
+            "choices": {
+                "A": "5",
+                "B": "10",
+                "C": "4",
+                "D": "2"
+            },
+            "answer": "D",
+            "id": "3202749007000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "the culex tarsalis transmits how many infectious diseases?",
+            "choices": {
+                "A": "100",
+                "B": "30",
+                "C": "5",
+                "D": "10"
+            },
+            "answer": "B",
+            "id": "4303160007000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "how much content about technology is produced by the person that produces let the good times roll?",
+            "choices": {
+                "A": "50%",
+                "B": "0",
+                "C": "100%",
+                "D": "1"
+            },
+            "answer": "D",
+            "id": "4303008011000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "What are things to see in downtown Chicago with an image of the skyline?",
+            "choices": {
+                "A": "The Statue of Liberty",
+                "B": "The Great Wall of China",
+                "C": "Adler Planetarium",
+                "D": "The Eiffel Tower"
+            },
+            "answer": "C",
+            "id": "WebQTrn-825_20030c80de39b4c9d510ac6a48eaf840_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "identify the tropical cyclones that are in the same category with hurricane marie and also affected eastern north america.",
+            "choices": {
+                "A": "Hurricane Katrina",
+                "B": "Hurricane Andrew",
+                "C": "Hurricane Sandy",
+                "D": "Hurricane Dorian"
+            },
+            "answer": "A",
+            "id": "4300198000000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what regions sell vc nintendo games?",
+            "choices": {
+                "A": "Australia",
+                "B": "Europe",
+                "C": "Asia",
+                "D": "North America"
+            },
+            "answer": "B",
+            "id": "498000101_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "Where is the Busch Stadium arena?",
+            "choices": {
+                "A": "Los Angeles, California",
+                "B": "m.06k1v5",
+                "C": "New York City, New York",
+                "D": "St. Louis, Missouri"
+            },
+            "answer": "D",
+            "id": "WebQTrn-2444_f3c80ccd9895d93f017cd1f0d310d378_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "how many mac models used motorola 68040 processors?",
+            "choices": {
+                "A": "3",
+                "B": "10",
+                "C": "1",
+                "D": "5"
+            },
+            "answer": "C",
+            "id": "3205922013000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "In which timezone is Texas, and near, Tulsa International Airport?",
+            "choices": {
+                "A": "Pacific Time Zone",
+                "B": "Eastern Time Zone",
+                "C": "Mountain Time Zone",
+                "D": "Central Time Zone"
+            },
+            "answer": "D",
+            "id": "WebQTrn-1563_72ce675be82a5655a30547169d8008e9_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "what is the number of religious practices that practices tibetan buddhism and taoism?",
+            "choices": {
+                "A": "100",
+                "B": "3",
+                "C": "1",
+                "D": "2"
+            },
+            "answer": "C",
+            "id": "3204573000000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what type of menstrual cramps treatments have sludge syndrome side effects?",
+            "choices": {
+                "A": "Heating pad",
+                "B": "Naproxen",
+                "C": "Ibuprofen",
+                "D": "Exercise"
+            },
+            "answer": "C",
+            "id": "4301182007000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what number of contents about classical music are produced by the same producer as radio lab?",
+            "choices": {
+                "A": "50",
+                "B": "0",
+                "C": "1",
+                "D": "10"
+            },
+            "answer": "C",
+            "id": "4303008005000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "name the sensor type of a digital camera that has the color filter array type of bayer and iso settings of 5000?",
+            "choices": {
+                "A": "Live MOS",
+                "B": "CMOS",
+                "C": "CCD",
+                "D": "APS-C"
+            },
+            "answer": "A",
+            "id": "4300861012000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what are the characteristics of feline infectious peritonitis and old diseases?",
+            "choices": {
+                "A": "Weight loss",
+                "B": "Improved coat condition",
+                "C": "Increased energy levels",
+                "D": "Increased appetite"
+            },
+            "answer": "A",
+            "id": "246000201_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "resurrection high school and the publisher of cairn magazine fall under which category of schools?",
+            "choices": {
+                "A": "Private school",
+                "B": "Boarding school",
+                "C": "Charter school",
+                "D": "Public school"
+            },
+            "answer": "A",
+            "id": "4301751001000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which rocket function can be found on the saturn v as well as on another rocket made by chrysler group llc?",
+            "choices": {
+                "A": "Solid rocket booster",
+                "B": "Upper stage engine",
+                "C": "Payload fairing",
+                "D": "Low Earth orbit"
+            },
+            "answer": "D",
+            "id": "242000100_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "Wehn did the team with the mascot named Benny the Bull last win the championship?",
+            "choices": {
+                "A": "1987 NBA Finals",
+                "B": "2010 NBA Finals",
+                "C": "1998 NBA Finals",
+                "D": "2004 NBA Finals"
+            },
+            "answer": "C",
+            "id": "WebQTrn-3707_ebbb01712f3eb1443b2895961ec14272_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "what is the number of infectious diseases that are transmitted by the deer tick?",
+            "choices": {
+                "A": "133",
+                "B": "27",
+                "C": "5",
+                "D": "1000"
+            },
+            "answer": "A",
+            "id": "4303160014000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which martial art has the same category as silat and has internal?",
+            "choices": {
+                "A": "Muay Thai",
+                "B": "Karate",
+                "C": "Tai chi",
+                "D": "Judo"
+            },
+            "answer": "C",
+            "id": "4301064012000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which programming language paradigm does php3 and java script follow?",
+            "choices": {
+                "A": "Object-oriented programming",
+                "B": "Functional programming",
+                "C": "Procedural programming",
+                "D": "Logic programming"
+            },
+            "answer": "A",
+            "id": "4300417007000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "When did the team with a mascot named Fred first win a trophy?",
+            "choices": {
+                "A": "1982\u201383 FA Cup",
+                "B": "1976\u201377 FA Cup",
+                "C": "1995\u201396 Premier League",
+                "D": "1968\u201369 League Cup"
+            },
+            "answer": "B",
+            "id": "WebQTrn-1018_707caa73f11b1e655a0f5f6b75082734_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "electronic arts has how many games found in the united states?",
+            "choices": {
+                "A": "100",
+                "B": "500",
+                "C": "1000",
+                "D": "5"
+            },
+            "answer": "D",
+            "id": "444000002_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "a camera with a bayer and iso setting of 800 has what type of sensor type?",
+            "choices": {
+                "A": "Film",
+                "B": "CCD and CMOS",
+                "C": "CMOS",
+                "D": "Charge-coupled device"
+            },
+            "answer": "D",
+            "id": "4300861003000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "how many contents about tv were produced by the producer of on the media?",
+            "choices": {
+                "A": "3",
+                "B": "5",
+                "C": "10",
+                "D": "1"
+            },
+            "answer": "A",
+            "id": "4303008015000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "who made the discovery of both the o and some halogen element?",
+            "choices": {
+                "A": "Humphry Davy",
+                "B": "Marie Curie",
+                "C": "Carl Wilhelm Scheele",
+                "D": "Dmitri Mendeleev"
+            },
+            "answer": "C",
+            "id": "485000201_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "what is the subject of the quote no woman marries for money; they are all clever enough, before marrying a millionaire, to fall in love with him first. which was spoken quoted by the angel of remembrance?",
+            "choices": {
+                "A": "Love",
+                "B": "Marriage",
+                "C": "Money",
+                "D": "Millionaire"
+            },
+            "answer": "A",
+            "id": "4300443005000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "of tropical cyclones that affected tci, which are in the same category with tropical storm linda?",
+            "choices": {
+                "A": "Hurricane Hanna",
+                "B": "Hurricane David",
+                "C": "Tropical Storm Emily",
+                "D": "Tropical Storm Dorian"
+            },
+            "answer": "A",
+            "id": "4300198002000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "When is the last time that the champion of the 1956 Peque\u00c3\u00b1a Copa del Mundo de Clubes win the champions league?",
+            "choices": {
+                "A": "2014 UEFA Champions League Final",
+                "B": "2016 UEFA Champions League Final",
+                "C": "1999 UEFA Champions League Final",
+                "D": "2008 UEFA Champions League Final"
+            },
+            "answer": "A",
+            "id": "WebQTrn-1606_d67df69c150ced0428b3bfedaa731cf9_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "What's the home stadium of the team that won the 2014 AFC Championship Game?",
+            "choices": {
+                "A": "Gillette Stadium",
+                "B": "Arrowhead Stadium",
+                "C": "Sports Authority Field at Mile High",
+                "D": "Paul Brown Stadium"
+            },
+            "answer": "C",
+            "id": "WebQTrn-2684_9635bb1f7252e813d1dfe70f82d62cad_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "japanese whisky blend single malt with grain whisky have how many types?",
+            "choices": {
+                "A": "2",
+                "B": "1",
+                "C": "5",
+                "D": "3"
+            },
+            "answer": "B",
+            "id": "4302561005000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which character with an item destroyed by tempus had powers which included control bodies of others?",
+            "choices": {
+                "A": "The Lich King",
+                "B": "The Shadow King",
+                "C": "The Mad Titan",
+                "D": "Askelon of Meridian"
+            },
+            "answer": "D",
+            "id": "4302209010000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "face the music and apple records were both produced by whom?",
+            "choices": {
+                "A": "Phil Spector",
+                "B": "Jeff Lynne",
+                "C": "George Harrison",
+                "D": "Brian Wilson"
+            },
+            "answer": "B",
+            "id": "4301847006000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what other rocket did the manufacturer of saturn int-21 and delta 2 create?",
+            "choices": {
+                "A": "Soyuz",
+                "B": "Ariane 5",
+                "C": "Saturn-Shuttle",
+                "D": "Atlas V"
+            },
+            "answer": "C",
+            "id": "4300129011000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what website, using really simple syndication as api, has the category of jovem nerd?",
+            "choices": {
+                "A": "LiveJournal",
+                "B": "Blogger",
+                "C": "WordPress",
+                "D": "Tumblr"
+            },
+            "answer": "A",
+            "id": "4300801015000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "how many elements about public affairs programming are made by the producer of communism, u.s. brand?",
+            "choices": {
+                "A": "1",
+                "B": "5",
+                "C": "0",
+                "D": "10"
+            },
+            "answer": "A",
+            "id": "4303008012000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "In what year did a team win the superbowl and the 2013 AFC Championship Game?",
+            "choices": {
+                "A": "1998",
+                "B": "2014",
+                "C": "2012",
+                "D": "2013"
+            },
+            "answer": "D",
+            "id": "WebQTest-837_c4e06c3a9e4b4f10bd1ae97f1742c198_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "The Bahamas was where Emanuel Lasker was born, but what type of government do they have?",
+            "choices": {
+                "A": "Parliamentary democracy",
+                "B": "Presidential republic",
+                "C": "Absolute monarchy",
+                "D": "Constitutional monarchy"
+            },
+            "answer": "D",
+            "id": "WebQTrn-1245_3ce332b703593e71708a5604865c5758_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "what kind of content do the producer of wait wait... don't tell me and american radio works produce?",
+            "choices": {
+                "A": "Music and Entertainment",
+                "B": "Sports and Recreation",
+                "C": "News and Talk Radio",
+                "D": "APM: Weekend America"
+            },
+            "answer": "D",
+            "id": "4300832007000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "when did the colts last win the superbowl",
+            "choices": {
+                "A": "Super Bowl XLII",
+                "B": "Super Bowl XLI",
+                "C": "Super Bowl LII",
+                "D": "Super Bowl XLV"
+            },
+            "answer": "B",
+            "id": "WebQTrn-1771_webqsp",
+            "domain": "webqsp"
+        },
+        {
+            "question": "Which World series was the last one to be won by the team that had Crazy Crab as the mascot?",
+            "choices": {
+                "A": "2007",
+                "B": "never",
+                "C": "1987",
+                "D": "1997"
+            },
+            "answer": "B",
+            "id": "WebQTest-832_e3d40457273785e46c5b71732713a5f4_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "what programming language paradigm do programming laguages such as livescript and derivatives of lisp follow?",
+            "choices": {
+                "A": "Imperative programming",
+                "B": "Procedural programming",
+                "C": "Functional programming",
+                "D": "Object-oriented programming"
+            },
+            "answer": "D",
+            "id": "4300417000000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "What standard time zone is used in Michigan and locations near Venice Municipal Airport?",
+            "choices": {
+                "A": "Central Time Zone",
+                "B": "Eastern Time Zone",
+                "C": "Pacific Time Zone",
+                "D": "Mountain Time Zone"
+            },
+            "answer": "B",
+            "id": "WebQTest-1264_623b8370871966e2e8aeb301482e1558_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "what camera storage type is supported by olympus d-580 zoom and the digital camera with iso setting of 80?",
+            "choices": {
+                "A": "Memory Stick",
+                "B": "CompactFlash",
+                "C": "xD-Picture Card",
+                "D": "SD Card"
+            },
+            "answer": "C",
+            "id": "4302372007000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "When did the sports team whose arena is Old Trafford first win a trophy?",
+            "choices": {
+                "A": "1963\u201364 European Cup Winners' Cup",
+                "B": "1998\u201399 UEFA Champions League",
+                "C": "1956\u201357 FA Cup",
+                "D": "1976\u201377 FA Cup"
+            },
+            "answer": "D",
+            "id": "WebQTrn-1018_593632bf477d73bb33a311728d6e6f29_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "where is the version developed by first star software and distributed through virtual console released?",
+            "choices": {
+                "A": "United States of America",
+                "B": "Europe",
+                "C": "Japan",
+                "D": "Australia"
+            },
+            "answer": "A",
+            "id": "4301141025000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "In what city do most of the people in the place where the Egyptian Mau breed originated?",
+            "choices": {
+                "A": "Luxor",
+                "B": "Greater Cairo",
+                "C": "Alexandria",
+                "D": "Aswan"
+            },
+            "answer": "B",
+            "id": "WebQTrn-3037_6ca8cba7511811830a04cd64a8a4cf77_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "what are the number of religious practices that practice buddhism and krishna consciousness?",
+            "choices": {
+                "A": "2",
+                "B": "1",
+                "C": "4",
+                "D": "3"
+            },
+            "answer": "B",
+            "id": "3204573006000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "in abrahamic faith, who is the founding figure of feast of assumption?",
+            "choices": {
+                "A": "Abraham",
+                "B": "Jesus Christ",
+                "C": "Moses",
+                "D": "Paul the Apostle"
+            },
+            "answer": "D",
+            "id": "4302278015000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "Name the last time the team with the mascot named Miles won the super bowl.?",
+            "choices": {
+                "A": "Super Bowl LVII",
+                "B": "Super Bowl XLII",
+                "C": "Super Bowl XLV",
+                "D": "Super Bowl XXXIII"
+            },
+            "answer": "D",
+            "id": "WebQTest-969_7621d2b69f15f44aba9e557f4af9764c_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "how many camera iso capabilities are the iso setting used by kodak z712 is zoom digital camera and samsung s1050?",
+            "choices": {
+                "A": "20",
+                "B": "15",
+                "C": "10",
+                "D": "7"
+            },
+            "answer": "D",
+            "id": "3205827000000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what is the sensor type of a digital camera that has the color filter array type of bayer and iso settings of 120?",
+            "choices": {
+                "A": "Charge-coupled device",
+                "B": "Photomultiplier tube",
+                "C": "CMOS",
+                "D": "Photodiode"
+            },
+            "answer": "A",
+            "id": "4300861022000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which amusement ride is the fastest of all the ones designed by the person who designed the mansion ride?",
+            "choices": {
+                "A": "Guardians of the Galaxy - Mission: Breakout!",
+                "B": "California Screamin'",
+                "C": "The Twilight Zone Tower of Terror",
+                "D": "Space Mountain"
+            },
+            "answer": "B",
+            "id": "482000201_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "What stadium does the champion of the 1931 World Series Championship play at?",
+            "choices": {
+                "A": "Sportsman's Park",
+                "B": "Wrigley Field",
+                "C": "Fenway Park",
+                "D": "Yankee Stadium"
+            },
+            "answer": "A",
+            "id": "WebQTrn-2444_8fb3f377318c9e61f47779b2c188167b_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "What city do a majority of the people who live  in the location that contains Gebel Elba reside?",
+            "choices": {
+                "A": "Luxor",
+                "B": "Aswan",
+                "C": "Greater Cairo",
+                "D": "Alexandria"
+            },
+            "answer": "C",
+            "id": "WebQTrn-3037_8b3815ec57389b13892dd5abb108cc4e_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "what programming language paradigm is followed by programming languages such as angelscript and derivatives of prolog?",
+            "choices": {
+                "A": "Logic programming",
+                "B": "Procedural programming",
+                "C": "Functional programming",
+                "D": "Object-oriented programming"
+            },
+            "answer": "D",
+            "id": "4300417003000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "find all quotations from tempus that are addressed to whom \"men make their own fates -- it's personal, not a matter for debate\" was addressed to",
+            "choices": {
+                "A": "The Gods",
+                "B": "Straton",
+                "C": "The King",
+                "D": "The Oracle"
+            },
+            "answer": "B",
+            "id": "4302343001000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "the computer designer for iphone4 and iphone 5 was whom?",
+            "choices": {
+                "A": "Jony Ive",
+                "B": "Steve Jobs",
+                "C": "Jonathan Ive",
+                "D": "Tim Cook"
+            },
+            "answer": "C",
+            "id": "4301299011000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what category of schools do emmaus high school and the publisher of the chattahoochee review fall under?",
+            "choices": {
+                "A": "Private school",
+                "B": "State school",
+                "C": "Community College",
+                "D": "University"
+            },
+            "answer": "B",
+            "id": "4301751015000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what is the number of active websites owned by vivek rp?",
+            "choices": {
+                "A": "0",
+                "B": "100",
+                "C": "1",
+                "D": "5"
+            },
+            "answer": "C",
+            "id": "3206340003000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "how many different religious texts have oriental orthodox and hidden christians of japan texts?",
+            "choices": {
+                "A": "1",
+                "B": "2",
+                "C": "4",
+                "D": "3"
+            },
+            "answer": "A",
+            "id": "3206221004000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which unit mass utilises a system of measurement that uses the energy density unit of joule per cubic metre and has a maximum weightmass in kilograms?",
+            "choices": {
+                "A": "Gram",
+                "B": "Tonne",
+                "C": "Pound",
+                "D": "Kilogram"
+            },
+            "answer": "B",
+            "id": "4302823001000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "which musical release is produced by it can happen and labelled warner bros records?",
+            "choices": {
+                "A": "The Fame",
+                "B": "The Black Parade",
+                "C": "Born This Way",
+                "D": "Human Being"
+            },
+            "answer": "D",
+            "id": "4301990005000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "how many religious practices are there that practices jainism and krishna?",
+            "choices": {
+                "A": "1",
+                "B": "Infinite",
+                "C": "3",
+                "D": "2"
+            },
+            "answer": "A",
+            "id": "3204573002000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "the setting that is used by canon eos 450d and samsung gx-20 has how many camera iso capabilities?",
+            "choices": {
+                "A": "20",
+                "B": "100",
+                "C": "12",
+                "D": "6"
+            },
+            "answer": "D",
+            "id": "3205827006000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "for the casinos owned by the same person as bellagio, which one is the smallest?",
+            "choices": {
+                "A": "Nevada Landing Hotel and Casino",
+                "B": "MGM Grand",
+                "C": "Caesars Palace",
+                "D": "The Mirage"
+            },
+            "answer": "A",
+            "id": "496000200_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "what rocket function is supported by saturn v as well as another rocket made by chrysler llc?",
+            "choices": {
+                "A": "Deep space exploration",
+                "B": "Interplanetary travel",
+                "C": "Low Earth orbit",
+                "D": "Lunar landing"
+            },
+            "answer": "C",
+            "id": "242000202_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "What was the last championship won by the team coached by Tom Thiboeau?",
+            "choices": {
+                "A": "2016 NBA Finals",
+                "B": "2011 NBA Finals",
+                "C": "1998 NBA Finals",
+                "D": "2004 NBA Finals"
+            },
+            "answer": "C",
+            "id": "WebQTrn-3707_d0d5f9f0ae25465e1efba1abf9a39089_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "When was the last time the basketball team whose head coach is Derek Fisher won the national championship?",
+            "choices": {
+                "A": "never",
+                "B": "2000",
+                "C": "2015",
+                "D": "1998"
+            },
+            "answer": "A",
+            "id": "WebQTest-998_47e95c73ec76579a8d66b6e1607df389_cwq",
+            "domain": "cwq"
+        },
+        {
+            "question": "who discovered o as well as an element in the d-block?",
+            "choices": {
+                "A": "Henry Cavendish",
+                "B": "Carl Wilhelm Scheele",
+                "C": "Dmitri Mendeleev",
+                "D": "Marie Curie"
+            },
+            "answer": "B",
+            "id": "480000001_graphquestions",
+            "domain": "graphquestions"
+        },
+        {
+            "question": "tempus destroyed an item belonging to which character with the ability of soul destruction?",
+            "choices": {
+                "A": "Anya",
+                "B": "Cime",
+                "C": "Valen",
+                "D": "Ekon"
+            },
+            "answer": "B",
+            "id": "4302209012000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what type of viewfinder is uses a unknown sensor and uses a jpeg (exif 2.2) format?",
+            "choices": {
+                "A": "Optical",
+                "B": "Rangefinder",
+                "C": "Electronic",
+                "D": "TTL"
+            },
+            "answer": "D",
+            "id": "4302274012000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "npr news and the producer of the world produce what content?",
+            "choices": {
+                "A": "BBC World Service - Sports Updates",
+                "B": "NPR's Morning Edition - Weather Forecast",
+                "C": "The New York Times - Business News",
+                "D": "PRI's The World - Geo Quiz"
+            },
+            "answer": "D",
+            "id": "4300832010000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "the nissan cefiro and the model with predecesser renault is included in what class of automobiles?",
+            "choices": {
+                "A": "Hatchback",
+                "B": "Sedan",
+                "C": "SUV",
+                "D": "Station Wagon"
+            },
+            "answer": "D",
+            "id": "4301079014000_grailqa",
+            "domain": "grailqa"
+        },
+        {
+            "question": "what social sciences discipline does mcclelland conduct research in?",
+            "choices": {
+                "A": "Development studies",
+                "B": "Sociology",
+                "C": "Political Science",
+                "D": "Economics"
+            },
+            "answer": "A",
+            "id": "4302233000000_grailqa",
+            "domain": "grailqa"
+        }
+    ]
+}

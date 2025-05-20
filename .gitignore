@@ -1,3 +1,10 @@
+initial_experts/*
+!initial_experts/expert_init.py
+search/*
+!search/readme.md
+good_model_checkpoints/*
+wandb/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
