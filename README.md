@@ -57,7 +57,7 @@ If Heterogeneous Swarms is helpful to you:
 
 ```
 @article{feng2025heterogeneous,
-  title={Heterogeneous Swarms: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems},
+  title={Heterogeneous swarms: Jointly optimizing model roles and weights for multi-llm systems},
   author={Feng, Shangbin and Wang, Zifeng and Goyal, Palash and Wang, Yike and Shi, Weijia and Xia, Huang and Palangi, Hamid and Zettlemoyer, Luke and Tsvetkov, Yulia and Lee, Chen-Yu and others},
   journal={arXiv preprint arXiv:2502.04510},
   year={2025}
