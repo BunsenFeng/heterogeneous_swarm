@@ -20,7 +20,7 @@ huggingface-cli login
 Download initial experts.
 ```
 cd initial_experts
-python initial_experts.py
+python expert_init.py
 cd ..
 ```
 
@@ -28,7 +28,7 @@ cd ..
 
 Let's run Heterogeneous Swarms on the [NLGraph](https://arxiv.org/abs/2305.10037) dataset focusing on LLM graph reasoning. `nlgraph.sh` provides the starter script for this.
 
-Before running, how many GPUs do you have (and what are the GPU ids?). Change `-g` in line 21 of `search_nlgraph.sh`: by default five GPUs with ids `0,1,2,3,4`, but you can change to `0`, `0,1`, `0,2,4,5,6` or any combination you'd like. It is recommended to have ~40GB memory per GPU and the code will auto double batch size for ~80GB GPUs.
+Before running, how many GPUs do you have (and what are the GPU ids?). Change `-g` in line 21 of `nlgraph.sh`: by default five GPUs with ids `0,1,2,3,4`, but you can change to `0`, `0,1`, `0,2,4,5,6` or any combination you'd like. It is recommended to have ~40GB memory per GPU and the code will auto double batch size for ~80GB GPUs.
 
 Run it!
 ```
